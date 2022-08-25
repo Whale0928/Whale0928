@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DeadWhale20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&width=100%&height=300&section=header&text=DeadWhale&fontSize=90" />
 <div>
     <img 
         src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Whale0928"
@@ -32,5 +32,5 @@
 ## Blog
 <a href="https://velog.io/@disdos0928">
     <img  src="https://velog.velcdn.com/images/kim-mg/post/b6928585-e245-4e5f-b878-0bbf278e5886/velog_logo.png" 
-       style="witdh:100px; height : 50px; margin-left : 10px; margin-right : 10px; border-radius:25px;"/>
+       style="witdh:100px; height : 50px; border-radius:25px; margin-left : 10px; margin-right : 10px; "/>
 </a>

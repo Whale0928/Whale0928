@@ -20,12 +20,15 @@
 - JavaScript
 - typeScript
 <br>
+
 - SpringFreamWork
 - Node.js[Exprees]
 <br>
+
 - MongoDB
 - Oracle
 <br>
+
 - AWS
 
 ## Blog

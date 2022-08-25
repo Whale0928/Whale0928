@@ -28,8 +28,8 @@
 
 - AWS
 
-
+## Blog
 <a href="https://velog.io/@disdos0928">
     <img  src="https://velog.velcdn.com/images/kim-mg/post/b6928585-e245-4e5f-b878-0bbf278e5886/velog_logo.png" 
-       style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+       style="witdh:100px; height : 50px; margin-left : 10px; margin-right : 10px;"/>
 </a>

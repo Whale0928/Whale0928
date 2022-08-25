@@ -8,6 +8,6 @@
 <br>
 <a href="https://alpox.kr](https://velog.io/@disdos0928">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.velog.io%2Fimages%2Fkyj5394%2Fpost%2Fd5d0db40-7a45-4ece-baf9-1687347b8250%2FVelog.png&imgrefurl=https%3A%2F%2Fvelog.io%2F%40kyj5394%2FHello-velog-world&tbnid=YSE-vpcFD43GFM&vet=12ahUKEwjPib_ys-H5AhW0S_UHHSnODH0QMygDegUIARC2AQ..i&docid=AA10Fg2_3LqkHM&w=616&h=363&q=velog&ved=2ahUKEwjPib_ys-H5AhW0S_UHHSnODH0QMygDegUIARC2AQ"
+        src="https://velog.velcdn.com/images/kyj5394/post/d5d0db40-7a45-4ece-baf9-1687347b8250/Velog.png"
         style="witdh:80px; height : 30px; margin-left : 10px; margin-right : 10px;"/>
 </a>

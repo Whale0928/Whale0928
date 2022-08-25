@@ -17,7 +17,6 @@
 ## Stack
 - html5
 - css6
-- 
 <br>
 
 - Java 

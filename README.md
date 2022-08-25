@@ -15,13 +15,17 @@
 새로운 기술과 지식을 배울 때 마다 시그넷 한잔씩 마시는 느낌입니다.
 
 ## Stack
+- html5
+- css6
+- 
+<br>
 
 - Java 
 - JavaScript
 - typeScript
 <br>
 
-- SpringFreamWork
+- Spring-Framework
 - Node.js[Exprees]
 <br>
 

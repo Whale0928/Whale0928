@@ -8,5 +8,5 @@
 <br>
 <a href="https://alpox.kr](https://velog.io/@disdos0928">
     <img src="https://velog.velcdn.com/images/kyj5394/post/d5d0db40-7a45-4ece-baf9-1687347b8250/Velog.png"
-        style="witdh:180px; height : 80; margin-left : 10px; margin-right : 10px; border-radius:5px;"/>
+        style="witdh:100px; height : 50px; margin-left : 10px; margin-right : 10px; border-radius:15px;"/>
 </a>

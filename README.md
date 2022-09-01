@@ -12,7 +12,7 @@
 
 한번 본 에러는 꼭 기억하려는 성격입니다.
 
-## Stack
+## Have Experienced
 - html5
 - css6
 <br>

@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&width=100%&height=300&section=header&text=DeadWhale&fontSize=90" />
 <div>
-    <img 
-        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Whale0928"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWhale0928%2Fhit-counter&count_bg=%2394D365&title_bg=%2300663C&icon=microstrategy.svg&icon_color=%23E7E7E7&title=toDay&edge_flat=true"/></a>
     <img 
         src="https://img.shields.io/github/followers/Whale0928?label=Whale%20Followers&style=social"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>

@@ -19,18 +19,14 @@
 
 - Java 
 - JavaScript
-- typeScript
 <br>
 
 - Spring-Framework
-- Node.js[Exprees]
 <br>
 
-- MongoDB
 - Oracle
 <br>
 
-- AWS
 
 ## Blog
 

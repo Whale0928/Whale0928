@@ -28,14 +28,17 @@ SOLID를 항상 생각하려 노력하면서 개발하면서
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <br>
 
-### Communication Tool
+### Tools
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 <br>
 </div>
 
 <hr>
 
 <h2> Blog 
+<br>
 <br>
 <a href="https://velog.io/@disdos0928">
 <img src="https://velog.velcdn.com/images/disdos0928/post/afc1b841-061e-4dff-a9af-78030dc7f176/image.png">    

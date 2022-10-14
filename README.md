@@ -34,3 +34,7 @@
     <img  src="https://velog.velcdn.com/images/kim-mg/post/b6928585-e245-4e5f-b878-0bbf278e5886/velog_logo.png" 
        style="witdh:100px; height : 50px;  margin-left : 10px; margin-right : 10px; "/>
 </a>
+<a href="https://deadwhale.notion.site/dc572a2b5f744015842229fbae371bbc" style="border-radius : 25px;">
+    <img  src="https://velog.velcdn.com/images/disdos0928/post/3a04c8d2-df50-4156-9818-acc022c99d3a/image.png" 
+       style="witdh:100px; height : 50px;  margin-left : 10px; margin-right : 10px; "/>
+</a>

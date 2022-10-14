@@ -32,6 +32,8 @@ SOLID를 항상 생각하려 노력하면서 개발하면서
 
 ### Tools
 <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache-Maven&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">

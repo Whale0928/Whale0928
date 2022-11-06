@@ -30,7 +30,7 @@ SOLID를 항상 생각하려 노력하면서 개발하면서
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <br>
 
-### Tools
+### Collaboration & Tools
 <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache-Maven&logoColor=white">
 <br>

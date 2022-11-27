@@ -53,6 +53,7 @@ SOLID를 항상 생각하려 노력하면서 개발하면서
 
 <a href="https://deadwhale.notion.site/dc572a2b5f744015842229fbae371bbc">
 
-![image](https://user-images.githubusercontent.com/75371249/204142675-58ea66e2-2ad7-4d82-9cc3-11bb6e968e68.png)
+![image](https://user-images.githubusercontent.com/75371249/204142693-059dedc7-b356-42d3-bb40-08395ce4d755.png)
+
   
 </a>

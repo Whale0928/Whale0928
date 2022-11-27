@@ -47,7 +47,7 @@ SOLID를 항상 생각하려 노력하면서 개발하면서
 <br>
 <a href="https://velog.io/@disdos0928">  
   
-![image](https://user-images.githubusercontent.com/75371249/204142227-5fc895c3-13f4-4dac-8a25-7bfa35293dfd.png)
+![image](https://user-images.githubusercontent.com/75371249/204142459-7400cd27-2dc4-463b-9618-3f214459bbe9.png)
 
   </a>
 

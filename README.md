@@ -46,9 +46,14 @@ SOLID를 항상 생각하려 노력하면서 개발하면서
 <br>
 <br>
 <a href="https://velog.io/@disdos0928">  
+  
 ![image](https://user-images.githubusercontent.com/75371249/204142227-5fc895c3-13f4-4dac-8a25-7bfa35293dfd.png)
-</a>
+
+  </a>
 
 <a href="https://deadwhale.notion.site/dc572a2b5f744015842229fbae371bbc">
-<img src="https://velog.velcdn.com/images/disdos0928/post/edecf70e-bb4a-46bf-9c75-82ada533921b/image.png">    
+
+  ![image](https://user-images.githubusercontent.com/75371249/204142308-0f0d8301-bb4c-46cd-bb9a-128a375e745a.png)
+
+  
 </a>

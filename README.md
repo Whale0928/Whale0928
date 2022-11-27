@@ -45,11 +45,8 @@ SOLID를 항상 생각하려 노력하면서 개발하면서
 <h2> Blog 
 <br>
 <br>
-  
+<a href="https://velog.io/@disdos0928">  
 ![image](https://user-images.githubusercontent.com/75371249/204142227-5fc895c3-13f4-4dac-8a25-7bfa35293dfd.png)
-
-<a href="https://velog.io/@disdos0928">
-<img src="https://velog.velcdn.com/images/disdos0928/post/afc1b841-061e-4dff-a9af-78030dc7f176/image.png">    
 </a>
 
 <a href="https://deadwhale.notion.site/dc572a2b5f744015842229fbae371bbc">
